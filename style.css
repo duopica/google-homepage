@@ -58,3 +58,10 @@ footer{
     display: flex;
     justify-content: space-between;
 }
+#signin{
+    border: 1px solid #4285f4;
+    padding-left: 10px;
+    border-radius: 10%;
+    background-color: #4285f4;
+    color: white;
+}
